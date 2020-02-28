@@ -30,4 +30,6 @@ HOW TO RUN:
 
 ./cb <input file name> <output file name>
 ================
+problem:
 
+fprintf in dir.cpp & udir.cpp 
